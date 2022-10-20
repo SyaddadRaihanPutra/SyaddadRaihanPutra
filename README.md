@@ -1,8 +1,9 @@
+<img src="code.gif" alt="code">
 - 👋 Hi, I’m @SyaddadRaihanPutra
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS, PHP, ASP
 <!--- 💞️ I’m looking to collaborate on ... --->
-- 📫 How to reach me ...
+<!--- 📫 How to reach me ... --->
 
 <!---
 SyaddadRaihanPutra/SyaddadRaihanPutra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
