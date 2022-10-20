@@ -1,4 +1,4 @@
-<img src="code.gif" alt="code" width="30">
+<img src="code.gif" alt="code" width="250">
 - 👋 Hi, I’m @SyaddadRaihanPutra
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJS, PHP, ASP
