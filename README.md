@@ -1,7 +1,7 @@
 <img src="code.gif" alt="code" width="300">
-- 👋 Hi, I’m @SyaddadRaihanPutra
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS, PHP, ASP
+<br>- 👋 Hi, I’m @SyaddadRaihanPutra
+<br>- 👀 I’m interested in Web Development
+<br>- 🌱 I’m currently learning ReactJS, PHP, ASP
 <!--- 💞️ I’m looking to collaborate on ... --->
 <!--- 📫 How to reach me ... --->
 
