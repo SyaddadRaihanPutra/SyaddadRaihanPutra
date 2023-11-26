@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/SyaddadRaihanPutra/SyaddadRaihanPutra/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/SyaddadRaihanPutra/SyaddadRaihanPutra/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
 
