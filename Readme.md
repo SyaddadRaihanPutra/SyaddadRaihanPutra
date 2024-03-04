@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Hi 👋! My name is Syaddad and I'm Fullstack Web Developer, Indonesia</h3>
+<h3 align="center">Hi! 👋 My name is Syaddad and I'm  Junior Fullstack Web Developer</h3>
 
 ###
 
