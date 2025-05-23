@@ -60,4 +60,3 @@
 <h6 align="center">© 2025 Made With Code </h6>
 
 ###
-![](https://komarev.com/ghpvc/?username=SyaddadRaihanPutra)
