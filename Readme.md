@@ -6,15 +6,12 @@
 
 ###
 
-<div align="center" style="display:flex;flex-wrap:wrap;justify-content:center;">
-  <div style="flex: 50%; padding: 5px;">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/syaddadrhnp.png" alt="Your Image Badge" />
+<div align="center" style="display:flex; justify-content:center; gap:20px;">
+  <div>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/syaddadrhnp.png" alt="Your Image Badge" width="150" />
   </div>
-  <div style="flex: 50%; padding: 5px;">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=syaddadraihanputra&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="stats graph"  />
-  </div>
-  <div style="flex: 50%; padding: 5px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyaddadRaihanPutra%20&theme=vue-dark&hide_border=true" height="150" />
+  <div>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=syaddadraihanputra&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
   </div>
 </div>
 
