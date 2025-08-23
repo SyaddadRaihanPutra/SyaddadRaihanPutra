@@ -8,7 +8,7 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:20px;">
   <div>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/syaddadrhnp.png" alt="Your Image Badge" width="450px" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/syaddadrhnp.png" alt="Your Image Badge" width="400px" />
   </div>
   <div>
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=syaddadraihanputra&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="GitHub Stats" />
